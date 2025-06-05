@@ -21,8 +21,7 @@ The project will be done similar to the [Shape Up](https://basecamp.com/shapeup)
 - *Each phase includes a product brief. During development, the current phase’s brief serves as the repo README to show how the product evolves through its lifecycle.*
 
 ## Status: *Scoping*
-- Initial problem statements being drafted
-- Data inventory and assumption validating experiments beginning
+- **06.05:** Framed initial problem statements, assumptions and user groups.
 
 ---
 ---
