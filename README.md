@@ -50,10 +50,7 @@ The project will be done similar to the [Shape Up](https://basecamp.com/shapeup)
 - ***Needed**: Feature data (population density, transit stops, destinations, etc.)*
 
 ### Experiments
-- Interview advocacy groups.
-- Interview planners (if possible),
-- Analyze current ridership patterns, see if existing network and next planned lanes match up with high usage roads.
-- Analyze current network reach vs equity factors.
+- TBD
 
 ### Conclusions
 *Finalize problem statements here*
